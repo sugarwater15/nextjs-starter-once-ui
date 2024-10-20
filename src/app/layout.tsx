@@ -44,7 +44,6 @@ export default function RootLayout({
 			data-theme="dark"
 			data-brand="red"
 			data-accent="red"
-			data-neutral="gray"
 			data-border="playful"
 			data-solid="contrast"
 			data-solid-style="plastic"
